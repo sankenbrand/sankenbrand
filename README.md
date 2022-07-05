@@ -1,7 +1,7 @@
 ### Hey there! ✨
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **svelte & spring boot**
+- 🌱 I’m currently learning **python**
 
 ### GitHub Stats
 
